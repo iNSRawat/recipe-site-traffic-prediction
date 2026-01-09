@@ -259,4 +259,4 @@ if data_loaded:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ by Neeraj Singh Rawat | [GitHub](https://github.com/iNSRawat)")
+st.markdown("Built with ❤️ by Nagendra Singh Rawat | [GitHub](https://github.com/iNSRawat)")
