@@ -1,5 +1,7 @@
 # Recipe Site Traffic Prediction
 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](workspace/notebook.ipynb)
+
 ## 🎯 Project Overview
 
 This project is part of the **DataCamp Data Scientist Professional Certification**. The goal is to build a machine learning model to predict which recipes will lead to high website traffic, helping Product Managers decide which recipes to feature on the homepage.
