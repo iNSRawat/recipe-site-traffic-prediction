@@ -28,6 +28,8 @@ The dataset contains 947 recipes with the following features:
 │   ├── notebook.ipynb              # Main Jupyter notebook with analysis
 │   └── recipe_site_traffic_2212.csv # Dataset
 ├── app.py                          # Streamlit web application
+├── requirements.txt                # Python dependencies
+├── DEPLOYMENT.md                   # Deployment guide for various platforms
 ├── explore_data.py                 # Data exploration script
 ├── test_notebook.py                # Test file
 ├── data_exploration.txt            # Exploration notes
@@ -61,7 +63,7 @@ The Logistic Regression model was selected as the final model:
 
 1. Install dependencies:
 ```bash
-pip install streamlit pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 2. Run the app:
