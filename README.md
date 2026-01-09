@@ -78,7 +78,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Neeraj Singh Rawat**
+**Nagendra Singh Rawat**
 - GitHub: [@iNSRawat](https://github.com/iNSRawat)
 
 ## 📄 License

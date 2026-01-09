@@ -31,7 +31,7 @@ st.markdown("### Predict which recipes will lead to high website traffic")
 # Load and prepare data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('recipe_site_traffic_2212.csv')
+    df = pd.read_csv('workspace/recipe_site_traffic_2212.csv')
     return df
 
 @st.cache_data
