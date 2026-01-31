@@ -1,0 +1,37 @@
+# Helper/utility scripts
+check_issues.py
+data_info.txt
+data_info_clean.txt
+extract_nb_code.py
+extract_nb_mark.py
+final_rewrite.py
+inspect_data.py
+investigate_data.py
+nb_code.txt
+nb_code_clean.txt
+nb_markdown_clean.txt
+rewrite_notebook.py
+rewrite_notebook_style.py
+test_validation_logic.py
+update_final_section.py
+update_notebook.py
+update_notebook_validation.py
+workspace/*.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
