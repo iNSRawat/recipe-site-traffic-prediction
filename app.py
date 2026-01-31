@@ -50,6 +50,9 @@ def prepare_data(df):
     
     df_clean['servings'] = df_clean['servings'].apply(clean_servings)
     
+    # Clean category - consolidate similar categories
+    df_clean['category'] = df_clean['category'].replace('Chicken Breast', 'Chicken')
+    
     # Convert target to binary
     df_clean['high_traffic'] = df_clean['high_traffic'].apply(lambda x: 1 if x == 'High' else 0)
     
