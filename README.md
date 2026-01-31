@@ -1,6 +1,14 @@
 # Recipe Site Traffic Prediction
 
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](workspace/notebook.ipynb)
+ ## 🔗 Project Link
+
+  [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/recipe-site-traffic-prediction)
+  
+  [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](workspace/notebook.ipynb)
+
+**[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/9a4b6759-8b80-48ef-9e7f-d135f36bcbfb)**
+
+---
 
 ## 🎯 Project Overview
 
