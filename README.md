@@ -85,6 +85,10 @@ streamlit run app.py
 **Nagendra Singh Rawat**
 - GitHub: [@iNSRawat](https://github.com/iNSRawat)
 
+## 🏆 Certification
+
+This project was completed as part of the [DataCamp Data Scientist Professional Certification](https://www.datacamp.com/certificate/DS0025950063730).
+
 ## 📄 License
 
 This project is part of the DataCamp Professional Certification.
