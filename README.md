@@ -3,8 +3,11 @@
  ## 🔗 Project Link
 
   [<img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="28"/>](https://www.kaggle.com/code/nsrawat/recipe-site-traffic-prediction)
-  
   [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=Jupyter)](workspace/notebook.ipynb)
+  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://t20-world-cup-2026-predictors.streamlit.app)
+  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
 
 **[View Full Project on DataCamp](https://www.datacamp.com/datalab/w/9a4b6759-8b80-48ef-9e7f-d135f36bcbfb)**
 
