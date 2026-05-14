@@ -57,10 +57,10 @@ def prepare_data(df):
     df_clean['high_traffic'] = df_clean['high_traffic'].apply(lambda x: 1 if x == 'High' else 0)
     
     # Impute missing values
-    nutritional_cols = ['calories', 'carbohydrate', 'sugar', 'protein']
+    nutritional_cols = ['calories', 'carbohydrate', 'sugar', 'protein', 'servings']
     for col in nutritional_cols:
         median_val = df_clean[col].median()
-        df_clean[col].fillna(median_val, inplace=True)
+        df_clean[col] = df_clean[col].fillna(median_val)
     
     return df_clean
 
